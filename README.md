@@ -1,16 +1,17 @@
 # custom_cards
 
-A new Flutter application.
+# Flutter
 
-## Getting Started
+# Customised Cards With Corousel
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2021-01-04 at 11 40 13 AM](https://user-images.githubusercontent.com/42887995/103506134-fef2ba00-4e81-11eb-9408-371190202e6a.jpeg)
+![WhatsApp Image 2021-01-04 at 11 40 15 AM (1)](https://user-images.githubusercontent.com/42887995/103506142-03b76e00-4e82-11eb-85d1-77ae53dca8bd.jpeg)
+![WhatsApp Image 2021-01-04 at 11 40 14 AM (1)](https://user-images.githubusercontent.com/42887995/103506151-0619c800-4e82-11eb-9230-c2256b47a6ef.jpeg)
+![WhatsApp Image 2021-01-04 at 11 40 15 AM](https://user-images.githubusercontent.com/42887995/103506158-0a45e580-4e82-11eb-81e6-dfd347c3ca89.jpeg)
+![WhatsApp Image 2021-01-04 at 11 40 14 AM](https://user-images.githubusercontent.com/42887995/103506167-0fa33000-4e82-11eb-823e-797cf7576a7b.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+# Gradient
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![WhatsApp Image 2021-01-04 at 11 40 13 AM (1)](https://user-images.githubusercontent.com/42887995/103506176-1336b700-4e82-11eb-8639-ac8bad1f437b.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
